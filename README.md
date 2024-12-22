@@ -32,7 +32,7 @@ This guidebook includes detailed steps for implementing the KNN algorithm and im
 - Learn More: [KNN Model Building](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 
 ### 7. **Hyperparameter Tuning**
-- Tuning the hyperparameters of the KNN model (e.g., number of neighbors, distance metrics) to improve performance.)
+- Tuning the hyperparameters of the KNN model (e.g., number of neighbors, distance metrics) to improve performance.
 - Learn More: [Hyperparameter Tuning](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
 
 ### 8. **Pros and Cons of KNN**
