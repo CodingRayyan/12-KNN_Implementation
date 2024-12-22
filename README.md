@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/af974959-82c1-4879-b737-a270ab801e83)
+
 # KNN_Implementation Guidebook
 
 Welcome to the **KNN_Implementation Guidebook** repository! This repository provides a comprehensive guide to implementing K-Nearest Neighbors (KNN) from scratch, understanding its theoretical foundation, and applying it to real-world datasets. The guide covers everything from basic concepts to advanced model building and evaluation.
