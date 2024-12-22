@@ -11,7 +11,7 @@ This guidebook includes detailed steps for implementing the KNN algorithm and im
 
 ### 2. **How KNN Works**
 - A detailed explanation of how the KNN algorithm works, including distance metrics and the concept of neighbors.
-- Learn More: [How KNN Works](https://www.geeksforgeeks.org/k-nearest-neighbors/)
+- Learn More: [How KNN Works](https://www.ibm.com/think/topics/knn)
 
 ### 3. **Wine Dataset Loading**
 - Loading and preparing the wine dataset for use in KNN classification.
@@ -35,7 +35,7 @@ This guidebook includes detailed steps for implementing the KNN algorithm and im
 
 ### 8. **Pros and Cons of KNN**
 - Understanding the advantages and limitations of using the KNN algorithm.
-- Learn More: [Pros and Cons of KNN](https://www.analyticsvidhya.com/blog/2020/03/understanding-the-k-nearest-neighbor-knn-algorithm/)
+- Learn More: [Pros and Cons of KNN](https://roboticsbiz.com/pros-and-cons-of-the-k-nearest-neighbors-knn-algorithm/)
 
 ## Contributing
 If you have suggestions or improvements for this guidebook, feel free to open an issue or submit a pull request. Contributions are always welcome!
